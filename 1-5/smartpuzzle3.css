@@ -1,0 +1,47 @@
+/*ウィンドウ幅が最大479pxまでの場合に適用(タブレット用)*/
+@media screen and (max-width: 479px) {
+    .wrapper{
+        width:200px;
+    }
+    .header{
+        width:200px;
+        height:200px;
+    }
+    .header2{
+        right: 70px;
+    }
+    .header3{
+        bottom:70px;
+    }
+    .header4{
+        right: 70px;
+        bottom: 120px;
+    }
+    .left{
+        width:200px;
+        height:100px;
+    }
+    .right{
+        width:200px;
+        height:200px;
+    }
+    .right2{
+        bottom:20px;
+        right: 30px;
+    }
+    .right3{
+        bottom:70px;
+        right: 30px;
+    }
+    .right4{
+        bottom:120px;
+        right: 30px;
+    }
+    .contents{
+        float: none; /* 要素の浮動化の解除 */
+        height:300px;
+    }
+    .footer{
+        height:100px;
+    }
+}

@@ -10,7 +10,6 @@ body {
 .wrapper {
     width: 400px; 
     margin: 0 auto; 
-/* wrapperクラスを中央寄せ */
 }
 /** header **/
 .header {

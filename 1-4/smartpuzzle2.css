@@ -23,14 +23,13 @@
 @media screen and (max-width: 479px) {
     .wrapper{
         width:150px;
-        height:650px;
     }
     .header{
         width:150px;
     }
     .left{
         width:150px;
-        height:100px;
+
     }
     .right{
         width:150px;
